@@ -1,0 +1,39 @@
+.logo{
+    margin-left: 90px;
+}
+#suggestbox{
+    background:white;
+    width: 940px;
+    margin-left: 200px;
+}
+.form-controller{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: -40px;
+}
+.wtsapp{
+    width: 25px;
+    height: 25px;
+    margin-top: 4px;
+    margin-left: -80px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+}
+.img-box{
+    width:172px;
+    height: 111px;  
+}
+.menu{
+    font-family: roboto;
+    color: black;
+    text-decoration: none;
+    margin-left: -100px;
+    font-size: 18px;
+}
+.col-sm-1{
+    margin-top: 25px;
+}
